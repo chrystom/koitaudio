@@ -1,4 +1,4 @@
-#include <gtk/gtk.h>
+#include <SDL/SDL2.h>
 
 static void print_hello(GtkWidget *widget, gpointer data);
 static void activate(GtkApplication *app, gpointer user_data);
